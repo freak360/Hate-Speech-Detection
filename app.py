@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-from sklearn.feature_extraction.text import TfidfVectorizer
 from string import punctuation
 import nltk
 from nltk.corpus import stopwords
